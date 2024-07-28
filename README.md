@@ -1,9 +1,6 @@
 # 👨‍💻 About Me:
 I’m Ashil George James, a second-year B.Tech Computer Science student at Saintgits College of Engineering.
-
-
- ## Interests:
-<br> - I have a keen interest in artificial intelligence, competitive programing, DataStructures and Algorithm. I enjoy exploring new technologies and am always looking forward to enhance my knowledge.
+<br>I have a keen interest in artificial intelligence, competitive programing, DataStructures and Algorithm. I enjoy exploring new technologies and am always looking forward to enhance my knowledge.
 
 
 ## 🔭 I’m currently working on
@@ -39,12 +36,12 @@ I’m Ashil George James, a second-year B.Tech Computer Science student at Saint
 
 - **Class 12th**  
   Bishop Moore Vidyapith, Mavelikara, Alappuzha, Kerala
-  *March 2022 – May 2023*  
+     *March 2022 – May 2023*  
   - Marks: 92%
 
 - **Class 10th**  
   Bishop Moore Vidyapith, Mavelikara,Kerala
-   *June 2020 – March 2021*  
+     *June 2020 – March 2021*  
   - Marks: 95%
 
 ## 🛠️ Projects
