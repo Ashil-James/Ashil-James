@@ -3,7 +3,7 @@
 # 👨‍💻 About Me:
 I’m Ashil George James, a second-year B.Tech Computer Science student at Saintgits College of Engineering.
 
- ## 💻 Interests:
+ ## Interests:
 <br> - I have a keen interest in artificial intelligence, competitive programing, DataStructures and Algorithm. I enjoy exploring new technologies and am always looking forward to enhance my knowledge.
 
 
