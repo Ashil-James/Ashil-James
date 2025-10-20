@@ -13,8 +13,8 @@ I'm currently building **Trackent**, a modern event aggregator platform.
 The core concept is to provide a dynamic and engaging "reel-style" feed (like YouTube Shorts or Instagram Reels) for users to discover upcoming events, workshops, and activities.
 
 * **Status:** In Development
-* **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js)
-* **Repository:** `[View Project Repository]([link-to-trackent-repo])`
+* **Tech Stack:** MariaDB, SVELTE, Javalin
+* **Repository:** [Trackent](https://github.com/hxri-nxrxyxn/trackent)
 
 ---
 
